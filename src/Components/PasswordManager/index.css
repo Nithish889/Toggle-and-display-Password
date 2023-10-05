@@ -1,0 +1,155 @@
+.app-container {
+  background-color: #9ba9eb;
+  padding: 20px;
+  min-height: 100vh;
+}
+.logo {
+  width: 150px;
+}
+.card-container {
+  background-color: #5763a5;
+  padding: 10px;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+.password-form-img {
+  height: 300px;
+  width: 300px;
+}
+.password-entry-container {
+  background-color: #454f84;
+  padding: 15px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+.password-head {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 5px;
+  font-weight: 500;
+}
+.each-ele {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 50px;
+  display: flex;
+  margin-bottom: 20px;
+}
+.icon {
+  padding: 10px;
+}
+.password-icon {
+  margin-top: 5px;
+  width: 20px;
+  margin-right: 5px;
+}
+.vertical-line {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 10px;
+}
+.each-input-ele {
+  outline: none;
+  border: none;
+}
+.each-input-ele {
+  font-weight: bold;
+  font-size: 16px;
+}
+.add-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  padding: 10px 35px 10px 35px;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.flex-end-button {
+  display: flex;
+  justify-content: flex-end;
+}
+.bottom-card-container {
+  margin-top: 20px;
+  background-color: #5763a5;
+  padding: 20px 10px 20px 10px;
+  border-radius: 10px;
+  min-height: 400px;
+}
+.display-top-container {
+  display: flex;
+}
+
+.lens {
+  width: 10px;
+}
+.para {
+  color: #ffffff;
+  margin-right: 5px;
+  font-size: 15px;
+}
+
+.search-full-bar {
+  background-color: #ffffff;
+  display: flex;
+  margin-left: 15px;
+  width: 150px;
+  height: 30px;
+  margin-top: 14px;
+}
+.box {
+  padding: 5px;
+}
+.lens {
+  height: 15px;
+  width: 15px;
+}
+.search-bar {
+  width: 120px;
+  border: none;
+  font-weight: 600;
+  outline: none;
+}
+.line {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.no-of {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  margin-right: 5px;
+  padding: 0px 10px 0px 10px;
+  border-radius: 40%;
+}
+.show-passwords-checkbox {
+  display: flex;
+  justify-content: flex-end;
+}
+.dabba {
+  margin-right: 10px;
+}
+.my-passwords {
+  color: #ffffff;
+}
+.null-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.password-img {
+  margin-top: 10px;
+  width: 300px;
+}
+
+.no-para {
+  color: #ffffff;
+  font-weight: bold;
+}
+.list-of-passwords {
+  list-style-type: none;
+  padding-left: 0px;
+}

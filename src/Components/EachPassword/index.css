@@ -1,0 +1,72 @@
+.each-password {
+  border: 1px solid #b6c3ca;
+  padding: 10px;
+  display: flex;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.initial-container {
+  color: hsl(0, 0%, 100%);
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  padding-left: 12px;
+  padding-top: 2px;
+  font-size: 25px;
+  margin-top: 32px;
+}
+.blue {
+  background-color: #0b69ff;
+}
+.red {
+  background-color: #b91c1c;
+}
+.orange {
+  background-color: #f59e0b;
+}
+.teal {
+  background-color: #1e293b;
+}
+.light-blue {
+  background-color: #0284c7;
+}
+.amber {
+  background-color: #7e858e;
+}
+.blue {
+  background-color: #0b69ff;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  width: 200px;
+}
+.website {
+  color: #ffffff;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.username {
+  margin-top: 0px;
+  color: #ffffff;
+  margin-bottom: 8px;
+}
+.password {
+  background-color: transparent;
+  width: 150px;
+  height: 20px;
+}
+.delete-details-container {
+  display: flex;
+  justify-content: space-between;
+}
+.delete-item {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.bin {
+  height: 30px;
+}
